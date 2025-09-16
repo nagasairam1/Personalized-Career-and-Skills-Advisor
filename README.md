@@ -59,5 +59,4 @@ npm run build
 - Currently uses **mock data** for dashboard cards.
 - You can integrate APIs (resume parsing, job listings, AI-based recommendations) later.
 
----
-👨‍💻 Developed by Career Advisor AI
+
